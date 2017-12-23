@@ -1,2 +1,2 @@
-# Bull-Cow-Game
+# Bull Cow Game
 A Bull-Cow-Game written in C++
